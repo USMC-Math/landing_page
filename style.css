@@ -129,11 +129,16 @@ h2 {
     align-content: center;
     background-color: #E5E7EB;
     font-size: 36px;
-    font-weight: bold;
-    padding: 50px;
+    padding: 100px 200px;
+}
+
+#main-quote, #author-quote {
+    color: black;
+    margin: 0;
 }
 
 #author-quote {
     display: flex;
     justify-content: flex-end;
+    font-weight: bolder
 }
