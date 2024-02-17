@@ -95,6 +95,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-content: center;
+    gap: 10px;
 }
 
 .image-subtext-containers {
@@ -105,8 +106,6 @@ h2 {
 }
 
 .image {
-    display: flex;
-    flex-direction: column;
     width: 100px;
     height: 100px;
     border-style:solid;
