@@ -41,6 +41,7 @@ li {
     align-content: center;
     gap: 15px;
     padding-bottom: 50px;
+    /* Give this a height & width Then get rid of those properties for the the children content.  */
 }
 
 .left-side-of-sub-header {
