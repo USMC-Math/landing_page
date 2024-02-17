@@ -140,5 +140,19 @@ h2 {
 #author-quote {
     display: flex;
     justify-content: flex-end;
-    font-weight: bolder
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.sign-up-container {
+    padding: 100px  250px;
+}
+
+.sign-up-box {
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+    border-radius: 12px;;
 }
