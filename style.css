@@ -168,9 +168,14 @@ h2 {
     flex-direction: column;
 }
 
-#signing-header {
+#signin-header {
     font-size: 24px;
     color: white;
+    margin-bottom: 0
+}
+
+#signin-subtext {
+    margin-top: 0;
 }
 
 #reverse-button {
