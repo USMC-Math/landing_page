@@ -81,3 +81,35 @@ button{
 #image-text {
     padding: 75px;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    text-align: center;
+}
+
+.random-information-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.image-subtext-containers {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+    border-style:solid;
+    border-radius: 12px;
+    border-color: #3882f6;
+}
