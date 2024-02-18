@@ -120,7 +120,9 @@ h2 {
     border-width: 3px;
 }
 
-/* change up0 the color of the subtext below the images */
+.subtext p{
+    color: black;
+}
 
 .quote-container {
     display: flex;
@@ -135,6 +137,10 @@ h2 {
 #main-quote, #author-quote {
     color: black;
     margin: 0;
+}
+
+#main-quote {
+    font-style: italic;
 }
 
 #author-quote {
